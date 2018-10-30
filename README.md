@@ -1,23 +1,24 @@
 #Latihan-3-yang-genap
 
 
-**mencari program segitiga sama kaki dan sisi
+**mencari program segitiga sama kaki dan sisi**
 
-**Alur Program
+**Alur Program**
 1. Mendeklarasikan variabel int A, B, C sebagai variabel input.
 2. Membaca input dari key board cin >> A >> B >> C.
 3. Membandingkan Nilai variabel A dengan variabel B JIka sama.
 4. Bandingkan kembali variabel A dengan variabel C.
-5. Jika kondisi **TRUE / ketiga variabel sama maka tercetaklah **SEGITIGA SAMA SISI
-6. Jika **False / jika kurang dari tiga variabel maka tercetaklah **SEGITIGA SAMA KAKI
-7. Dan JIka Variabel A sama dengan variabel C, jika kondisi **True maka tercetak **SEGITIGA SAMA KAKI
-8. jika kondisi **False samakan kembali variabel C dengan variabel B, jika kondisi **True tercetaklah **SEGITIGA SAMA KAKI
-9. Jika kondisi **False Cetaklah **SEGITIGA SAMA KAKI
+5. Jika kondisi **TRUE** / ketiga variabel sama maka tercetaklah **SEGITIGA SAMA SISI**
+6. Jika **False** / jika kurang dari tiga variabel maka tercetaklah **SEGITIGA SAMA KAKI**
+7. Dan JIka Variabel A sama dengan variabel C, jika kondisi **True** maka tercetak **SEGITIGA SAMA KAKI**
+8. jika kondisi **False** samakan kembali variabel C dengan variabel B, jika kondisi **True** tercetaklah **SEGITIGA SAMA KAKI**
+9. Jika kondisi **False** Cetaklah **SEGITIGA SAMA KAKI**
 10. END
 
-**CODE PROGRAM
+**CODE PROGRAM**
 
-```
+```c++
+
 #include <iostream>
 
 using namespace std;
@@ -46,4 +47,5 @@ int main(){
     }
 }
 
-```c++
+
+```
