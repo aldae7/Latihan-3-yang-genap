@@ -15,6 +15,14 @@
 9. Jika kondisi **False** Cetaklah **SEGITIGA SAMA KAKI**
 10. END
 
+**ScreenShot Hasil**
+
+https://github.com/aldae7/Latihan-3-yang-genap/blob/master/samakaki.png
+
+https://github.com/aldae7/Latihan-3-yang-genap/blob/master/samasisi.png
+
+https://github.com/aldae7/Latihan-3-yang-genap/blob/master/sembarang.png
+
 **CODE PROGRAM**
 
 ```c++
